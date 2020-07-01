@@ -1,0 +1,15 @@
+form{
+    width: 80%;
+    margin: auto;
+}
+input{
+    display: block;
+    margin-bottom: 5px;
+    padding: 5px 20px;
+    
+}
+.submit{
+    padding: 10px 20px;
+    color: aqua;
+    background-color: darkblue;
+}
